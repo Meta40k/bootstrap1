@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Rubik&display=swap');
+
+
+.conainer {
+    max-width: 1110;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Rubik', sans-serif; */
+}
+
+.title-h1{
+    font-size: 52px;
+}
